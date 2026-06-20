@@ -1,0 +1,11 @@
+{
+  "wikis": {
+    "note-taking-software": {
+      "path": "topics/note-taking-software",
+      "title": "笔记软件调研 Wiki",
+      "description": "当前主流笔记软件全面调研与对比",
+      "created": "2026-06-20",
+      "status": "active"
+    }
+  }
+}
