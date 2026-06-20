@@ -1,7 +1,0 @@
-node_modules/
-public/
-.claude/
-.DS_Store
-.quartz/
-.quartz-cache
-tsconfig.tsbuildinfo
