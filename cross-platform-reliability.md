@@ -1,5 +1,7 @@
 ---
-title: "笔记软件多端可靠性评价（macOS / Linux / Windows）"
+title: "多端可靠性"
+layout: default
+nav_order: 5
 type: concept
 confidence: medium
 updated: 2026-06-20

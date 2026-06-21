@@ -1,5 +1,7 @@
 ---
-title: "笔记软件功能对比矩阵 2026"
+title: "功能对比"
+layout: default
+nav_order: 8
 type: concept
 confidence: high
 updated: 2026-06-20

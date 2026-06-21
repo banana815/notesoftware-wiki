@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "手写笔记工具对比：Notability vs GoodNotes 2026"
 source: "paperlike.com, 什么值得买, softwareadvice.com"
 urls:

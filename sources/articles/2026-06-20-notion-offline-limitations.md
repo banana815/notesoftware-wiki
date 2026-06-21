@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "Notion 离线模式与现实差距"
 source: "XDA Developers, PCMag, Latenode Community"
 urls:

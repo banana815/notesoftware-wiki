@@ -1,5 +1,7 @@
 ---
-title: "AI 在笔记软件中的应用 2026"
+title: "AI 支持"
+layout: default
+nav_order: 10
 type: concept
 confidence: high
 updated: 2026-06-20

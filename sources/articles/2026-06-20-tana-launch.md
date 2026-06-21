@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "Tana 公开发布与 $25M 融资"
 source: "TechCrunch + multiple business outlets"
 urls:

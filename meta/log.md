@@ -1,3 +1,9 @@
+---
+title: "研究日志"
+layout: default
+nav_exclude: true
+---
+
 # Topic Log — 笔记软件调研
 
 ## [2026-06-20] research | "AI 支持与使用深度调研" → 1 source ingested, 1 article compiled

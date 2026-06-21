@@ -1,5 +1,8 @@
 ---
 title: "Obsidian"
+layout: default
+parent: "工具档案"
+nav_order: 1
 type: tool-profile
 confidence: high
 updated: 2026-06-20

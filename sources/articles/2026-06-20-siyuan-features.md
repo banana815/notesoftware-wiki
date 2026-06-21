@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "思源笔记 (SiYuan)：开源自托管 PKM 的完整方案"
 source: "dev.to, GitHub, deepwiki.com"
 urls:

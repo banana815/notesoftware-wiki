@@ -1,5 +1,8 @@
 ---
 title: "Apple Notes"
+layout: default
+parent: "工具档案"
+nav_order: 10
 type: tool-profile
 confidence: medium
 updated: 2026-06-20

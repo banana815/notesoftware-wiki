@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "Notion 3.0-3.5：从笔记应用到开发者平台"
 source: "Notion official releases (notion.com/releases)"
 urls:

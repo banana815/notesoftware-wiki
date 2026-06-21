@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "Evernote 的兴衰：笔记软件史上的警示故事"
 source: "TechCrunch, ArsTechnica, The Register, The Verge, Engadget, Gizmodo (2014-2025)"
 urls:

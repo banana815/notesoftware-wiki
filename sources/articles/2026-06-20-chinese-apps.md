@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "国产笔记软件深度对比：语雀 / Wolai / FlowUs"
 source: "Web research, 百度贴吧, 数字营销, 什么值得买"
 urls:

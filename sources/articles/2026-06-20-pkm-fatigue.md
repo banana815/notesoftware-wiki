@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "PKM 疲劳：当工具成为负担"
 source: "XDA Developers, Imperial College London, dev.to, PKM Journal, althacker.news"
 urls:

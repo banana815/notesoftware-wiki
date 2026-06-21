@@ -1,5 +1,7 @@
 ---
-title: "Local-First vs Cloud：笔记软件的架构之选"
+title: "本地优先 vs 云端"
+layout: default
+nav_order: 9
 type: concept
 confidence: high
 updated: 2026-06-20

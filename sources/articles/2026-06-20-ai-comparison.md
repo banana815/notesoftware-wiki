@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "AI 笔记工具对比 2026"
 source: "PCMag Best AI Note-Taking Apps 2026 + multiple reviews"
 urls:

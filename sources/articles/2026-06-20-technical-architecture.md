@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "笔记软件技术架构全景：CRDT、文件格式、同步机制"
 source: "Multiple technical documentation and architecture analyses (Anytype, Logseq, AppFlowy, SiYuan, Joplin, Obsidian, Craft, Standard Notes)"
 urls:

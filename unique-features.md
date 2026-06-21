@@ -1,5 +1,7 @@
 ---
-title: "各笔记软件特色与差异化深度分析"
+title: "独家特色"
+layout: default
+nav_order: 6
 type: concept
 confidence: medium
 updated: 2026-06-20

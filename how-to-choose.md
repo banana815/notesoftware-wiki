@@ -1,5 +1,7 @@
 ---
-title: "如何选择笔记工具：决策框架"
+title: "如何选择"
+layout: default
+nav_order: 12
 type: concept
 confidence: medium
 updated: 2026-06-20

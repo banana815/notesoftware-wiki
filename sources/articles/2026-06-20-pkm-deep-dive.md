@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "PKM 工具 2026 深度对比：Obsidian / Notion / Logseq / Anytype / Tana / Capacities / Heptabase"
 source: "youngju.dev PKM Deep Dive 2026"
 urls:

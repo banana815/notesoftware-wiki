@@ -1,5 +1,7 @@
 ---
-title: "笔记软件全景概览 2026"
+title: "全景概览"
+layout: default
+nav_order: 2
 type: concept
 confidence: high
 updated: 2026-06-20
@@ -37,10 +39,10 @@ see_also:
 
 ## 深度文章
 
-- [[market-landscape]] — 市场份额、竞争格局、商业模型
-- [[tool-comparison]] — 22 个工具的功能对比矩阵
-- [[local-first-vs-cloud]] — 架构选择的深层含义
-- [[ai-in-note-taking]] — AI 功能对比与趋势
-- [[data-sovereignty]] — 锁定风险、隐私和出口策略
-- [[how-to-choose]] — 按场景选择笔记工具的决策框架
-- [[individual tools]] — 各工具详细档案
+- [市场格局](market-landscape.md) — 市场份额、竞争格局、商业模型
+- [功能对比](tool-comparison.md) — 22 个工具的功能对比矩阵
+- [本地优先 vs 云端](local-first-vs-cloud.md) — 架构选择的深层含义
+- [AI 支持](ai-in-note-taking.md) — AI 功能对比与趋势
+- [数据主权](data-sovereignty.md) — 锁定风险、隐私和出口策略
+- [如何选择](how-to-choose.md) — 按场景选择笔记工具的决策框架
+- [工具档案](tools/) — 各工具详细档案

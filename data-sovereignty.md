@@ -1,5 +1,7 @@
 ---
-title: "笔记软件的数据主权与锁定风险"
+title: "数据主权"
+layout: default
+nav_order: 11
 type: concept
 confidence: high
 updated: 2026-06-20

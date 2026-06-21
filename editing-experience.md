@@ -1,5 +1,7 @@
 ---
-title: "笔记软件编辑体验评价"
+title: "编辑体验"
+layout: default
+nav_order: 3
 type: concept
 confidence: medium
 updated: 2026-06-20

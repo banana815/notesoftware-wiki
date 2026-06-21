@@ -1,5 +1,7 @@
 ---
-title: "笔记软件市场格局 2026"
+title: "市场格局"
+layout: default
+nav_order: 7
 type: concept
 confidence: high
 updated: 2026-06-20

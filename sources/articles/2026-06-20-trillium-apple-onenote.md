@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "Trilium / Apple Notes / OneNote 深度分析 2026"
 source: "XDA Developers, 9to5Mac, Windows Report, MacRumors, dev.to"
 urls:

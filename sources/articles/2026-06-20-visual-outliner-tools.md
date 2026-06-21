@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "视觉化与大纲式笔记工具"
 source: "Multiple comparison and vendor pages"
 urls:

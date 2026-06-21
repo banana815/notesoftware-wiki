@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "其他值得关注的笔记工具：Bear / Craft / Amplenote / RemNote / UpNote / Reflect / Mem"
 source: "Multiple review sources (PCMag, App Store, positioniseverything.net, saashub)"
 urls:

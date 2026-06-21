@@ -1,5 +1,8 @@
 ---
 title: "Logseq"
+layout: default
+parent: "工具档案"
+nav_order: 3
 type: tool-profile
 confidence: high
 updated: 2026-06-20

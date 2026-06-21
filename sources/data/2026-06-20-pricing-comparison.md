@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "笔记软件定价与商业模式对比 2026"
 source: "Multiple pricing pages and comparison articles"
 urls:

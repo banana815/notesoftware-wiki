@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "CRDT 在笔记软件中的工程实践 2025-2026"
 source: "Multiple engineering sources (YAOS, Anytype, SwarmNote, Bobkonf Yjs workshop, Open WebUI)"
 urls:

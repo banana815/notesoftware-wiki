@@ -1,5 +1,8 @@
 ---
-title: "其他工具档案速览"
+title: "其他工具"
+layout: default
+parent: "工具档案"
+nav_order: 14
 type: tool-profile
 confidence: medium
 updated: 2026-06-20

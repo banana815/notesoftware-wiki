@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "Obsidian 2026 路线图与更新"
 source: "obsidian.md/changelog, obsidian.md/roadmap"
 urls:

@@ -1,5 +1,7 @@
 ---
-title: "笔记软件文件管理评价"
+title: "文件管理"
+layout: default
+nav_order: 4
 type: concept
 confidence: high
 updated: 2026-06-20

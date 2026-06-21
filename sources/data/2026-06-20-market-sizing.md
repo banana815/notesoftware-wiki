@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "笔记软件市场规模与增长分析 2025-2026"
 source: "Multiple market research reports (Global Info Research, DataIntelo, TBRC, Research and Markets)"
 urls:

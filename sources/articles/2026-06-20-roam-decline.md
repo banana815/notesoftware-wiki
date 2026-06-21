@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "Roam Research：范式开创者的停滞与锁定"
 source: "GreaterWrong, Ness Labs, Obsidian Forum, Trustpilot"
 urls:

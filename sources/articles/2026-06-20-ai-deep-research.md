@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "笔记软件 AI 支持深度调研 2026"
 source: "Notion Releases, Obsidian Community, Tana Blog, Heptabase Wiki, Capacities Docs, RemNote, Khoj, Open Notebook"
 urls:

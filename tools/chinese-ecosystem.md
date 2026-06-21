@@ -1,5 +1,8 @@
 ---
-title: "国产笔记软件：语雀 / Wolai / FlowUs"
+title: "国产生态"
+layout: default
+parent: "工具档案"
+nav_order: 13
 type: tool-profile
 confidence: medium
 updated: 2026-06-20

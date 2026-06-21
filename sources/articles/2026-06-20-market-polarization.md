@@ -1,4 +1,6 @@
 ---
+layout: default
+nav_exclude: true
 title: "PKM 市场格局：Local-First vs Cloud 的两极分化"
 source: "remio.ai analysis + multiple competitive landscape reports"
 urls:
